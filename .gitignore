@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw PISA microdata (large, redistribute per OECD terms) - keep out of git by default.
+# Comment the next two lines out if you intend to commit the raw files.
+data/raw/*.SAV
+data/raw/*.sav

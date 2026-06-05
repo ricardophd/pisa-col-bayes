@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Bayesian Multilevel Analysis of Instructional Quality and Mathematics Achievement (PISA 2022, Colombia)"
+authors:
+  - family-names: "Gómez"
+    given-names: "Ricardo L."
+    affiliation: "University of Antioquia, College of Education"
+  - family-names: "Castro Gordillo"
+    given-names: "Walter"
+    affiliation: "University of Antioquia, College of Education"
+version: "1.0.0"
+date-released: "2026-06-05"
+license: MIT
+repository-code: "https://github.com/ricardophd/pisa-col-bayes"
+keywords:
+  - Bayesian multilevel modeling
+  - instructional quality
+  - mathematics achievement
+  - PISA 2022
+  - Colombia

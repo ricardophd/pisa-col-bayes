@@ -1,9 +1,9 @@
 # Bayesian Multilevel Analysis of Instructional Quality and Mathematics Achievement (PISA 2022, Colombia)
 
-Reproducibility repository for the Bayesian reanalysis of how instructional quality
+Reproducibility repository for the Bayesian analysis of how instructional quality
 relates to mathematics achievement among Colombian 15-year-olds in PISA 2022. It
 contains all analysis and plotting code, the processed data, and the generated
-posterior draws and figures. (The manuscript is not part of this repository.)
+posterior draws and figures.
 
 ## What the analysis does
 
